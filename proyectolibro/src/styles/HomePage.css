@@ -1,0 +1,12 @@
+.home-page {
+    background-color: #D3B57B;
+    min-height: 100vh;
+    padding: 1rem;
+  }
+  
+  .book-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 1rem;
+  }
+  

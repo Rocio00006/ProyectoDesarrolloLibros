@@ -1,0 +1,38 @@
+.header {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    background-color: #A62929;
+  }
+  
+  .header-btn {
+    background-color: #4B0B0B;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    margin: 0 0.5rem;
+    cursor: pointer;
+    border-radius: 0.25rem;
+  }
+  
+  .admin-btn {
+    background-color: #A6895A;
+    max-width: 140px;
+  }
+  
+  .search-input {
+    flex: 1;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    border: none;
+    margin: 0 1rem;
+  }
+  
+  .cart-btn {
+    background-color: #4B0B0B;
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+    list-style: none;
+  }
+  
